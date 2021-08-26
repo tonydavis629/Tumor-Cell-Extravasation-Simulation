@@ -1,5 +1,4 @@
 # Tumor-Cell-Extravasation-Simulation
-Matlab simulation for adhesion in tumor cell extravasation
 
 The adhesion of tumor cells to the endothelium is a crucial step in the extravasation process of cancer migration and metastasis. Tumor cell adhesion involves several complex mechanisms and factors, including receptor-ligand kinetics, rupture forces, loading rates, and statistical mechanics, to name just a few. Computer simulations are an invaluable method of modeling these systems and understanding the relationships between the various factors affecting the process of adhesion to the endothelium. This paper discusses important and current research into the adhesion process within tumor cell extravasation, details a computer-simulated parametric case study of the factors and statistical mechanics involved in adhesion, and highlights potential future directions for research on the adhesion process involving the usage of computer modeling and simulations.
 
