@@ -42,3 +42,22 @@ The number of tumor cells used in the simulation is value that severely limited 
 The future of cancer research is uncertain. There are thousands of efforts worldwide to reduce the lethality of cancer. Every type of cancer is a unique disease, with its own complications and dynamics, so the area of research is vast. An exciting branch of research is the design of nanotechnology specifically for cancer. There are several types of nanotechnologies already available that are in a limited use: liposomes, synthetic polymers, chitosan, buckyballs, nanotubes, mesoporous silica and more. Their designs generally are for drug delivery, due to the fact that nanotechnology allows for structures impossible with traditional medicine. Other practical uses of nanotechnology on cancer treatment are for diagnostics, biomarkers, therapeutic delivery, and immunotherapeutics.
 
 
+### References
+
+Barsegov, V., and D. Thirumalai. “Dynamics of Unbinding of Cell Adhesion Molecules: Transition from Catch to Slip Bonds.” Proceedings of the National Academy of Sciences, vol. 102, no. 6, 2005, pp. 1835–1839., doi:10.1073/pnas.0406938102. 
+
+Benoit M, Gaub H, E: Measuring Cell Adhesion Forces with the Atomic Force Microscope at the Molecular Level. Cells Tissues Organs 2002;172:174-189. doi: 10.1159/000066964
+
+Eibl, R H, and M Benoit. “Molecular resolution of cell adhesion forces.” IEE proceedings. Nanobiotechnology vol. 151,3 (2004): 128-32. doi:10.1049/ip-nbt:20040707
+
+Evans, Evan A, and David A Calderwood. “Forces and bond dynamics in cell adhesion.” Science (New York, N.Y.) vol. 316,5828 (2007): 1148-53. doi:10.1126/science.1137592
+
+Hoskins, Meghan H, and Cheng Dong. “Kinetics analysis of binding between melanoma cells and neutrophils.” Molecular & cellular biomechanics : MCB vol. 3,2 (2006): 79-87.
+
+Khalili AA, Ahmad MR. A Review of Cell Adhesion Studies for Biomedical and Biological Applications. International Journal of Molecular Sciences. 2015; 16(8):18149-18184. https://doi.org/10.3390/ijms160818149
+
+Laurent, Valérie M et al. “Atomic force microscopy reveals a role for endothelial cell ICAM-1 expression in bladder cancer cell adherence.” PloS one vol. 9,5 e98034. 23 May. 2014, doi:10.1371/journal.pone.0098034
+
+Müller, Daniel J et al. “Force probing surfaces of living cells to molecular resolution.” Nature chemical biology vol. 5,6 (2009): 383-90. doi:10.1038/nchembio.181
+
+Zhang, Xiaohui et al. “Molecular basis for the dynamic strength of the integrin alpha4beta1/VCAM-1 interaction.” Biophysical journal vol. 87,5 (2004): 3470-8. doi:10.1529/biophysj.104.045690
